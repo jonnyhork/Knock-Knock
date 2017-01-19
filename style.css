@@ -1,0 +1,15 @@
+*,.joke {
+  text-align: center;
+  font-family: sans-serif,arial;
+  margin: auto;
+  padding:10px;
+
+}
+.hide {
+  display: none;
+}
+
+ .show {
+   display: block;
+   align-items: center;
+ }
